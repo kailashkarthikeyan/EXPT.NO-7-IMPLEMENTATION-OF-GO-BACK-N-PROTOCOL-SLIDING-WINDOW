@@ -43,9 +43,7 @@ printf("\n All frames sent successfully.\n");
 
 # OUTPUT
 
- 
-
-
+![WhatsApp Image 2025-11-19 at 10 06 52 AM](https://github.com/user-attachments/assets/674ff29b-1e48-44ae-99aa-fb4268c176ad)
 
 
 # RESULT: Thus the Go-Back-N protocol-Sliding Window was implemented and the output is verified successfully.
